@@ -2,8 +2,10 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Projeto criado ao final do curso de PHP 7.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Certificado: 
-Instrutores: Leonardo Moura Leitao e Francisco Wagner Costa Aquino.
+Certificado: <br>
+
+Instrutores: Leonardo Moura Leitao e Francisco Wagner Costa Aquino.<br>
+
 Instituição de ensino: Udemy - Cod3r.
 
 
