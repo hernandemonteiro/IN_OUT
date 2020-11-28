@@ -3,16 +3,7 @@
 Projeto criado em PHP 7.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <head>
-<style>
-  .fotos {
-  display: flex;
-  width: 100%;
-  }
-  
-  img {
-  display: flexbox;
-  }
-</style>
+<link rel=stylesheet href='readme.css'>
 </head>
 <div class='fotos'>
 <img src='https://scontent.fcwb2-1.fna.fbcdn.net/v/t1.15752-9/127621252_821941498368964_2887043926843775583_n.png?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=ERdBqy0bahUAX9goasc&_nc_ht=scontent.fcwb2-1.fna&oh=c99825a91147c3f4eb4fe5718c7b1d6f&oe=5FE755D7' width='49%'/>
